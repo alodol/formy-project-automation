@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Chomedriver_win32">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/lib/chromedriver_win32 (4)" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/chromedriver_win32 (4)" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
